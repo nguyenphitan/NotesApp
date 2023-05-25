@@ -90,6 +90,7 @@
 
         <EditText
             android:layout_width="match_parent"
+            android:inputType="textPassword"
             android:layout_height="wrap_content"
             android:id="@+id/loginpassword"
             android:hint="Enter your password">
